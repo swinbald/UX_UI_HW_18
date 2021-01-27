@@ -90,29 +90,20 @@ p {
     left: 40px
   }
 
-  .mySkills {
-    display: inline;
-  }
+ 
 
   .flexContainer {
     display: flex;
-    width: 33%;
-    flex-direction: column;
-    background-color: #151515;
-    color: #fffafa;
-    text-align: left;
-    
-    
-  }
+     width: 33%;
+     flex-direction: column;
+     background-color: #151515;
+     color: #fffafa;
+   
+   
+ }
 
   
  
-  .mySkills h1 {
-    color: #151515;
-    font-family: 'Bowlby One';
-    font-size: 48px;
-    margin-left: 126px;
-  }
 
   .casebut {
     background-color: #151515;
@@ -128,20 +119,7 @@ p {
     
   }
 
-  .myWork {
-    display: grid;
-  }
 
-  .myWork h1 {
-    color: #151515;
-    font-family: 'Bowlby One';
-    font-size: 48px;
-    margin-left: 126px;
-  }
-
-  .workGrid {
-    margin: auto
-  }
     
   
 
