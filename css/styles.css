@@ -94,13 +94,65 @@ p {
 
   .flexContainer {
     display: flex;
-     width: 33%;
-     flex-direction: column;
+     width: 100%;
      background-color: #151515;
-     color: #fffafa;
-   
-   
- }
+     color:#fffafa;
+     font-size: 20px;
+     font-family: 'Andika';
+     text-align: left;
+     
+  }
+
+   .flexContainer h3 {
+     font-family: 'Bowlby One';
+     text-align: center;
+   }
+
+   #mySkills h1 {
+     font-family: 'Bowlby One';
+     font-size: 48px;
+     color: #151515;
+     margin-left: 126px;
+   }
+
+   .workGrid {
+    align-items: start;
+    display: grid;
+    grid-gap: 16px;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  
+  .card {
+    background-color: #fffafa;
+    border-radius: 5px;
+    color: #151515;
+    padding: 24px 16px;
+    text-align: left;
+  
+  }
+
+  .card img {
+    float: left;
+  }
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+
+
+  
 
   
  
