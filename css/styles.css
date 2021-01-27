@@ -126,23 +126,37 @@ p {
     font-size: 48px;
     color: #151515;
     font-family: 'Bowlby One';
+    margin-left: -50px;
   }
   
   
   .card {
     background-color: #fffafa;
-    border-radius: 5px;
     color: #151515;
     padding: 24px 16px;
-    text-align: left;
-    
-  
+    float: right;
+     
   }
 
-  .card img {
+  .image1 {
+    float:left;
+    
+        
+  }
+
+  .image2 {
     float: left;
     
   }
+
+  .image3 {
+    float:left;
+   
+  }
+
+
+
+ 
 
   .card h2 {
     font-size: 24px;
