@@ -116,9 +116,8 @@ p {
    }
 
    .workGrid {
-    align-items: start;
+    align-items: center;
     display: grid;
-    grid-gap: 16px;
     justify-content: center;
     width: 100%;
   }
@@ -136,12 +135,56 @@ p {
     color: #151515;
     padding: 24px 16px;
     text-align: left;
+    
   
   }
 
   .card img {
     float: left;
+    
   }
+
+  .card h2 {
+    font-size: 24px;
+    color: #151515;
+    font-family: 'Bowlby One';
+    margin-left: 474px;
+    
+  }
+
+  .card h3 {
+    font-size: 20px;
+    color: #151515;
+    font-family: 'Andika';
+  }
+
+  .card p {
+    font-family: 'Andika';
+    font-size: 18px;
+  }
+
+  .casebutt {
+    background-color: #151515;
+    padding: 16px;
+    color:#fffafa;
+    font-size: 18px;
+    font-family: 'Bowlby One';
+    text-align: center;
+    border-radius: 8px;
+    }
+
+    .casebutt:hover {
+      background-color: #fffafa;
+      color: #151515;
+      border-color: #151515;
+      border-width: solid 2px;
+    }
+
+   
+
+   
+
+ 
   
 
   
