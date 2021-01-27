@@ -122,6 +122,12 @@ p {
     justify-content: center;
     width: 100%;
   }
+
+  .workGrid h1{
+    font-size: 48px;
+    color: #151515;
+    font-family: 'Bowlby One';
+  }
   
   
   .card {
