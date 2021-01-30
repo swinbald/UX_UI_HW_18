@@ -255,11 +255,12 @@ p {
   @media only screen and (max-width: 600px) {
     .flexContainer {
       flex-direction: column;
+      grid-template-columns: auto;
     }
 
     .workGrid {
       flex-direction: column;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: auto;
     }
 
    
